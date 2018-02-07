@@ -1,9 +1,9 @@
 {
-  "name": "ore-eraser",
-  "version": "1.4.1",
+  "name": "tree-eraser-maintained",
+  "version": "0.0.1",
   "factorio_version": "0.16",
-  "title": "Ore Eraser",
-  "author": "Tergiver",
-  "contact": "tergiver@msn.com",
-  "description": "Adds the Ore Eraser item which allows you to erase ore from the map."
+  "title": "Tree Eraser (maintained)",
+  "author": "ganiserb",
+  "contact": "ganiserb@gmail.com",
+  "description": "Adds the Tree Eraser item which allows you to erase trees from the map. Based on TreeEraser from No0Vad and OreEraser from Tergiver. Source at https://github.com/ganiserb/TreeEraser"
 }

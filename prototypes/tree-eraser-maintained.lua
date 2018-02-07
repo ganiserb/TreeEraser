@@ -2,8 +2,8 @@ data:extend(
 {
   {
     type = "selection-tool",
-    name = "ore-eraser",
-    icon = "__ore-eraser__/graphics/ore-eraser.png",
+    name = "tree-eraser-maintained",
+    icon = "__tree-eraser-maintained__/graphics/tree-eraser-maintained.png",
     flags = {"goes-to-quickbar"},
     subgroup = "tool",
     order = "c[automated-construction]-b[deconstruction-planner]",
@@ -19,12 +19,12 @@ data:extend(
   },
   {
 	type = "recipe",
-	name = "ore-eraser",
+	name = "tree-eraser-maintained",
 	enabled = "true",
 	ingredients =
 	{
 	},
-	result = "ore-eraser"
+	result = "tree-eraser-maintained"
   }
 }
 )
